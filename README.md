@@ -23,7 +23,7 @@ Marketer Hayat is led by **Faisal Saleh Hayat**, a Pakistan-based Paid Ads Strat
 ## Tracking And Conversion Stack
 
 ![GA4](https://img.shields.io/badge/GA4-F9AB00?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
+![GTM](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=googletagmanager&logoColor=white)
 ![Meta Pixel](https://img.shields.io/badge/Meta%20Pixel-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 ![CAPI](https://img.shields.io/badge/Conversions%20API-6A2DA8?style=for-the-badge&logo=meta&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
