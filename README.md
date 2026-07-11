@@ -1,40 +1,49 @@
-# Faisal Saleh Hayat
+# Marketer Hayat
 
-Cloud, web, and marketing automation.
+Performance marketing, Meta Ads, tracking, and conversion-focused growth systems.
 
-I work across cloud computing, web development, networking, and practical automation. My current focus is building marketing optimization systems: cleaner websites, stronger workflows, lead-generation support, and AI-assisted marketing operations.
+Marketer Hayat helps eCommerce and service-based businesses improve lead generation, campaign performance, conversion tracking, and full-funnel paid advertising execution.
 
-## What I Work On
+## Core Focus
 
-- Cloud computing, cloud architecture, and cloud service foundations
-- AWS, Azure, Kubernetes, Docker, and networking practice
-- Frontend and web development with HTML, CSS, JavaScript, and React
-- Marketing optimization workflows for websites, content, and lead generation
-- Automation systems that reduce repetitive manual work
+- Facebook and Instagram Ads management
+- Meta Ads strategy for eCommerce and service businesses
+- Lead generation campaigns for local and international markets
+- WhatsApp click-to-message ads
+- Shopify and WooCommerce dynamic product ads
+- Meta Ads retargeting
+- Pixel and conversion tracking setup
+- Ad account audit, optimization, and scaling strategy
+- Creative direction and ad copywriting
+- Full-funnel campaign planning across TOF, MOF, and BOF
 
-## Public Work
+## What This GitHub Profile Is For
 
-- [Kubernetes YAML practice files](https://github.com/marketerhayatofficial/k8s-slides-yaml-files): pods, deployments, services, ingress, jobs, volumes, config maps, secrets, and related cloud-native examples.
-- [React bootcamp app](https://github.com/marketerhayatofficial/bootcamp-react-app): React learning project built with Create React App.
-- [LinkedIn invitation cleanup utility](https://github.com/marketerhayatofficial/withdraw-all-pending-invitations-from-linkedin-at-once): a small automation-focused utility around repetitive LinkedIn account cleanup.
-- [JavaScript assignments](https://github.com/marketerhayatofficial/Js-Assigment): JavaScript practice and assignment material.
-- [Personal GitHub Pages site](https://github.com/marketerhayatofficial/Itshayat.github.io): public site repository for Its Hayat.
+This profile is being aligned with Marketer Hayat's marketing operations and automation work.
 
-## Current Direction
+Public repositories may include:
 
-I am connecting my technical background with marketing execution:
-
-- Website and landing page optimization
 - Marketing workflow automation
-- AI-assisted content and campaign systems
-- SEO/AEO process improvement
-- Lead-generation and conversion support
+- Tracking and campaign operations notes
+- Website and landing page optimization resources
+- Paid ads process documentation
+- SEO, AEO, and conversion optimization experiments
+- Technical utilities that support marketing execution
 
-The goal is simple: use technology to make marketing work faster, clearer, and more measurable.
+## Brand Direction
 
-## Connect
+Marketer Hayat is focused on practical performance marketing systems: better tracking, cleaner funnels, stronger creative, smarter retargeting, and campaigns built around business outcomes instead of vanity metrics.
 
-- Website: [www.itshayat.com](https://www.itshayat.com)
-- GitHub: [@marketerhayatofficial](https://github.com/marketerhayatofficial)
-- Location: Peshawar
+## Website
+
+[marketerhayat.com](https://marketerhayat.com)
+
+## Key Pages
+
+- [Services](https://marketerhayat.com/services/)
+- [Facebook Ads Management](https://marketerhayat.com/services/facebook-ads-management/)
+- [Ad Account Audit and Optimization](https://marketerhayat.com/services/ad-account-audit-scaling/)
+- [Pixel and Conversion Tracking](https://marketerhayat.com/services/facebook-pixel-conversion-tracking/)
+- [Lead Generation Campaigns](https://marketerhayat.com/services/lead-generation-campaigns/)
+- [Contact](https://marketerhayat.com/contact-us/)
 
