@@ -1,49 +1,72 @@
 # Marketer Hayat
 
-Performance marketing, Meta Ads, tracking, and conversion-focused growth systems.
+Paid ads strategy, tracking, and conversion-focused growth systems.
 
-Marketer Hayat helps eCommerce and service-based businesses improve lead generation, campaign performance, conversion tracking, and full-funnel paid advertising execution.
+Marketer Hayat is led by Faisal Saleh Hayat, a Pakistan-based Paid Ads Strategist helping businesses grow through Meta Ads, Google Ads, social media marketing, tracking, and landing page optimisation.
 
-## Core Focus
+## Core Positioning
 
-- Facebook and Instagram Ads management
-- Meta Ads strategy for eCommerce and service businesses
-- Lead generation campaigns for local and international markets
-- WhatsApp click-to-message ads
-- Shopify and WooCommerce dynamic product ads
-- Meta Ads retargeting
-- Pixel and conversion tracking setup
-- Ad account audit, optimization, and scaling strategy
-- Creative direction and ad copywriting
-- Full-funnel campaign planning across TOF, MOF, and BOF
+- Paid Ads Strategist for better leads, sales, and revenue
+- Meta and Google Ads specialist for ecommerce brands, service businesses, and agencies
+- Campaign decisions based on tracking, performance data, and clear reporting
+- Practical growth work across ads, landing pages, analytics, and conversion flow
+- Simple communication and audit-first improvement planning
+
+## Services
+
+- Meta Ads Management
+- Google Ads Management
+- Social Media Marketing
+- TikTok and Snapchat Ads Management
+- Tracking and Analytics Setup
+- Website and Landing Page Optimisation
+
+## Campaign Focus
+
+- Lead generation
+- Ecommerce growth
+- Retargeting
+- Search ads
+- Performance Max
+- Shopping campaigns
+- Short-form video campaigns
+- GA4, GTM, CAPI, Meta Pixel, and Google Ads conversion tracking
+- Landing page conversion improvements
 
 ## What This GitHub Profile Is For
 
-This profile is being aligned with Marketer Hayat's marketing operations and automation work.
+This GitHub profile supports Marketer Hayat's marketing operations, automation, and technical execution layer.
 
 Public repositories may include:
 
 - Marketing workflow automation
-- Tracking and campaign operations notes
-- Website and landing page optimization resources
-- Paid ads process documentation
-- SEO, AEO, and conversion optimization experiments
-- Technical utilities that support marketing execution
+- Paid ads audit and reporting templates
+- Tracking and analytics implementation notes
+- Landing page optimisation resources
+- Campaign operations documentation
+- SEO, AEO, and conversion optimisation experiments
+- Technical utilities that support performance marketing work
 
-## Brand Direction
+## Website Direction
 
-Marketer Hayat is focused on practical performance marketing systems: better tracking, cleaner funnels, stronger creative, smarter retargeting, and campaigns built around business outcomes instead of vanity metrics.
+The new Marketer Hayat website positions the brand around paid ads strategy, clearer tracking, better landing page decisions, and measurable campaign improvement.
+
+The main offer is simple: send your website or ad account details, get a practical audit, and identify what needs to improve first across campaigns, tracking, and landing page flow.
 
 ## Website
 
 [marketerhayat.com](https://marketerhayat.com)
 
-## Key Pages
+## Key Website Areas
 
-- [Services](https://marketerhayat.com/services/)
-- [Facebook Ads Management](https://marketerhayat.com/services/facebook-ads-management/)
-- [Ad Account Audit and Optimization](https://marketerhayat.com/services/ad-account-audit-scaling/)
-- [Pixel and Conversion Tracking](https://marketerhayat.com/services/facebook-pixel-conversion-tracking/)
-- [Lead Generation Campaigns](https://marketerhayat.com/services/lead-generation-campaigns/)
-- [Contact](https://marketerhayat.com/contact-us/)
+- Services
+- Meta Ads Management
+- Google Ads Management
+- Social Media Marketing
+- Tracking and Analytics Setup
+- Website and Landing Page Optimisation
+- TikTok and Snapchat Ads Management
+- Ecommerce Meta Ads Results
+- Lead Generation Results
+- Paid ads blog and education
 
